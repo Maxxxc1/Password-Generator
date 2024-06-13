@@ -15,8 +15,11 @@ Once opened, user must select prompt choices for each questions asked. Once prmp
 
 User needs to choose and submit an answer to the initial prompts questioned by the webpage in order to request random passwords from the generator.
 
+## Links
 
-## Links and Screeshots
+https://maxxxc1.github.io/Password-Generator/Links to an external site.
+
+## Screeshots
 
 Screenshot:  
 
